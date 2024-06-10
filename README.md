@@ -1,1 +1,1 @@
-# Machine-Learning
+# Set of machine learning exercises
