@@ -1,1 +1,1 @@
-# Set of machine learning exercises
+# Set of data science exercises
